@@ -1,2 +1,2 @@
 # Algorithms
-My projects from Algorithms
+A List of my projects from Algorithms
